@@ -1,0 +1,9 @@
+<servlet>
+    <servlet-name>DoGet</servlet-name>
+    <servlet-class>doGetExample</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>DoGet</servlet-name>
+    <url-pattern>/doget</url-pattern>
+</servlet-mapping>

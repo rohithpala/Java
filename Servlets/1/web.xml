@@ -1,0 +1,9 @@
+<servlet>
+    <servlet-name>Addition</servlet-name>
+    <servlet-class>Add</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>Addition</servlet-name>
+    <url-pattern>/add</url-pattern>
+</servlet-mapping>
